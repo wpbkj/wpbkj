@@ -8,6 +8,8 @@ I'm Wang Pengbo(wpbkj) from China, nice to meet you!
 - BLOG：https://www.wpbkj.com
 - 微信公众号(WeChat official account) : WPBKJ小站
 
+![WeChat official account](gzh.jpg)
+
 <div align="center">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpbkj&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wpbkj&show_icons=true&theme=dark" />
 </div>
